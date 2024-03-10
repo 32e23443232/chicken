@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to usa","Watching USA"];
+const statusMessages = ["MXSON","Is werid"];
 
 
 let currentIndex = 0;
